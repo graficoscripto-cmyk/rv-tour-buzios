@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rv-tour-buzios.vercel.app/sitemap.xml

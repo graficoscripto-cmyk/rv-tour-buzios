@@ -1,0 +1,12 @@
+# RV Tour - Passeio de Buggy em Búzios
+
+> Agência de turismo em Manguinhos, Armação dos Búzios-RJ, que faz passeio de buggy por 8 praias e 3 mirantes, com paradas para fotos. 4,9 no Google (241 avaliações).
+
+- Endereço: Rua Celeste da Costa, Manguinhos, Armação dos Búzios-RJ, 28950-000
+- Coordenadas: -22.7690727, -41.9064542
+- WhatsApp: (22) 99880-2581
+- Atendimento: seg. a sáb. 8h às 21h30; dom. 8h às 15h
+- Praias: Armação, João Fernandes, João Fernandinho, Brava, Forno, Foca, Ferradura
+- Mirantes: João Fernandes, Toa Toa, Brava
+- Reserva: pelo WhatsApp; valores e horários sob consulta
+- Site: https://rv-tour-buzios.vercel.app/
